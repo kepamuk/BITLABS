@@ -1,0 +1,27 @@
+@font-face {
+  font-family: SpaceMono;
+  src: url('./assets/fonts/SpaceMono-Regular.ttf');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: CourierPrime;
+  src: url('./assets/fonts/CourierPrime-Regular.ttf');
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  font-family: 'SpaceMono', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+h2 {
+  margin: 0;
+}
